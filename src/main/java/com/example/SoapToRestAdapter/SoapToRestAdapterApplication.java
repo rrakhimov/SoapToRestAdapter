@@ -9,5 +9,4 @@ public class SoapToRestAdapterApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SoapToRestAdapterApplication.class, args);
 	}
-
 }
